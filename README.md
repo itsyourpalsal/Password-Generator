@@ -17,4 +17,4 @@ Created by Salvador Beltran.
 Starter code retrieved from https://github.com/coding-boot-camp/friendly-parakeet.
 
 # Website
-https://github.com/itsyourpalsal/Password-Generator
+https://itsyourpalsal.github.io/Password-Generator/
